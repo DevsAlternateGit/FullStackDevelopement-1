@@ -1,0 +1,14 @@
+ol {
+    border-style: groove;
+    border-color: lime;
+}
+
+ul {
+    border-style: groove;
+    border-color: blueviolet;
+}
+
+dl {
+    border-style: groove;
+    border-color: cyan;
+}
